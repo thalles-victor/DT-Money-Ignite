@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-10-28T23:45:08.838Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-11-05T12:01:16.460Z",
+      "id": 4
+    },
+    {
+      "description": "relógio",
+      "category": "útil",
+      "price": 400,
+      "type": "outcome",
+      "createdAt": "2022-11-05T16:38:39.833Z",
+      "id": 5
     }
   ]
 }
